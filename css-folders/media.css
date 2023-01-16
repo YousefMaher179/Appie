@@ -579,3 +579,29 @@
     gap: 1.2rem;
   }
 }
+@media (max-width: 26em) {
+  .vedio-container {
+    top: 6%;
+  }
+  .btn:link,
+  .btn:visited {
+    padding: 1rem;
+  }
+  .logo-photo {
+    height: 2.5rem;
+    width: 9rem;
+  }
+}
+@media (max-width: 26em) {
+  .vedio-container {
+    top: 6%;
+  }
+  .btn:link,
+  .btn:visited {
+    padding: 1rem;
+  }
+  .logo-photo {
+    height: 2.5rem;
+    width: 9rem;
+  }
+}
